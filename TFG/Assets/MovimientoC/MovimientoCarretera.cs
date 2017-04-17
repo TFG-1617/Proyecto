@@ -1,0 +1,20 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MovimientoCarretera : MonoBehaviour {
+    public float scrollSpeed;
+    public float titleSizeZ;
+
+    private Vector3 startPosition;
+	
+	void Start () {
+        startPosition = transform.position;	
+	}
+	
+	
+	void Update () {
+        float newPosition = Mathf.Repeat(Time.time * scrollSpeed, titleSizeZ);
+        transform.position = startPosition + Vector3.forward * newPosition;	
+	}
+}
