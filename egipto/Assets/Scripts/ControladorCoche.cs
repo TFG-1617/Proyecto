@@ -28,10 +28,10 @@ public class ControladorCoche : MonoBehaviour
         CharacterController controller = GetComponent<CharacterController>();
 
             
-            moveDirection = new Vector3(0, 0, Input.acceleration.x * speedTurn);
+            moveDirection = new Vector3(0, 0, Input.GetAxis("Horizontal") * speedTurn);
             moveDirection = transform.TransformDirection(moveDirection);
             moveDirection *= speed;
-            giroEnY = Input.acceleration.x * anguloDeGiro;
+            giroEnY = Input.GetAxis("Horizontal") * anguloDeGiro;
 
             if(cocheGO.name=="taxi" )
                 cocheGO.transform.rotation = Quaternion.Euler(-90, giroEnY -90  ,0 );

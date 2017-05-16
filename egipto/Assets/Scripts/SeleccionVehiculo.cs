@@ -9,11 +9,12 @@ public class SeleccionVehiculo : MonoBehaviour {
     private GameObject candado;
     public int indice;
     public int puntuacion;
+    
 
 	private void Start () {
 
         indice = PlayerPrefs.GetInt("CocheSeleccionado");
-
+        puntuacion = PlayerPrefs.GetInt("TotalScore");
         listaCoches = new GameObject[transform.childCount];
 
         candado = GameObject.Find("Bloqueado");
@@ -39,11 +40,11 @@ public class SeleccionVehiculo : MonoBehaviour {
             indice = 0;
 
         listaCoches[indice].SetActive(true);
-        if (puntuacion > 2000 && indice == 2)
+        if (puntuacion > 20000 && indice == 2)
         {
             candado.SetActive(false);
         }
-        else if (puntuacion > 1000 && indice == 1)
+        else if (puntuacion > 10000 && indice == 1)
         {
             candado.SetActive(false);
         }
@@ -65,15 +66,15 @@ public class SeleccionVehiculo : MonoBehaviour {
         listaCoches[indice].SetActive(true);
 
 
-        if (puntuacion < 1000 && (indice == 1 || indice == 2 || indice == 3))
+        if (puntuacion < 10000 && (indice == 1 || indice == 2 || indice == 3))
         {
             candado.SetActive(true);
         }
-        else if (puntuacion < 2000 && (indice == 2 || indice == 3))
+        else if (puntuacion < 20000 && (indice == 2 || indice == 3))
         {
             candado.SetActive(true);
         }
-        else if (puntuacion < 3000 && indice == 3)
+        else if (puntuacion < 30000 && indice == 3)
         {
             candado.SetActive(true);
         }

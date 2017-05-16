@@ -8,7 +8,7 @@ public class MovimientoTramos : MonoBehaviour {
     public GameObject todosLosTramos;
     public GameObject[] conjuntoTramos;
 
-    public float velocidad;
+    public float velocidad =10;
     public bool inicioJuego;
     public bool finJuego;
 
@@ -27,6 +27,7 @@ public class MovimientoTramos : MonoBehaviour {
     public GameObject scoreGO;
     public int score;
     public float realScore;
+   
 
 
 
@@ -39,7 +40,7 @@ public class MovimientoTramos : MonoBehaviour {
     void InicioJuego()
     {
         todosLosTramos = GameObject.Find("TodosLosTramos");
-        VelocidadCarretera();
+        
         BuscarTramos();
 
         inicioJuego = true;
@@ -48,7 +49,7 @@ public class MovimientoTramos : MonoBehaviour {
 
     void VelocidadCarretera()
     {
-        velocidad = 10;
+     
     }
 
     void BuscarTramos()
@@ -104,9 +105,11 @@ public class MovimientoTramos : MonoBehaviour {
     }
 	// Update is called once per frame
 	void Update () {
-        if(inicioJuego == true && finJuego == false)
-        transform.Translate(Vector3.right * velocidad * Time.deltaTime);
-        if(tramoAnterior.transform.position.x + tamañoTramo > tamañoTramo*2 && fueraDeCamara == false)
+        if (inicioJuego == true && finJuego == false) { 
+            
+            transform.Translate(Vector3.right * velocidad * Time.deltaTime);
+        }
+        if (tramoAnterior.transform.position.x + tamañoTramo > tamañoTramo*2 && fueraDeCamara == false)
         {
             fueraDeCamara = true;
             DestruirTramo();
@@ -134,6 +137,11 @@ public class MovimientoTramos : MonoBehaviour {
         score = (int)realScore;
         UpdateScore();
         saveLastScore();
+        if (score != 0 && score % 500 == 0)
+        {
+            velocidad += 0.5f;
+        }
+       
     }
 
     void UpdateScore()
