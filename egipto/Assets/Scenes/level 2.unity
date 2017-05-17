@@ -259,7 +259,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 25
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &167117609
 GameObject:
@@ -3671,53 +3671,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4691835338905618, guid: 7a84340499128034b939543aa5cfa7c1,
     type: 2}
   m_PrefabInternal: {fileID: 337002646}
---- !u!1001 &1007066590
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4155622067422306, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 138.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4155622067422306, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4155622067422306, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 79.54
-      objectReference: {fileID: 0}
-    - target: {fileID: 4155622067422306, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4155622067422306, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4155622067422306, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4155622067422306, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4155622067422306, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-      propertyPath: m_RootOrder
-      value: 24
-      objectReference: {fileID: 0}
-    - target: {fileID: 1684874059561404, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-      propertyPath: m_Name
-      value: Tramo8
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 114117373092383480, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-  m_ParentPrefab: {fileID: 100100000, guid: a965a346529e45840b0a35ce05260dce, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1022119762
 GameObject:
   m_ObjectHideFlags: 0
@@ -4806,7 +4759,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f56942868d48d1949a878661449f4d19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anguloDeGiro: 10
   speed: 2
   gravity: 0
   speedTurn: 2

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ControladorCoche : MonoBehaviour
 {
-    public float anguloDeGiro;
+    private float anguloDeGiro = 10F;
     public float speed = 6.0F;
     public float gravity = 20.0F;
     public float speedTurn = 10.0F;
@@ -28,10 +28,10 @@ public class ControladorCoche : MonoBehaviour
         CharacterController controller = GetComponent<CharacterController>();
 
             
-            moveDirection = new Vector3(0, 0, Input.GetAxis("Horizontal") * speedTurn);
+            moveDirection = new Vector3(0, 0, Input.acceleration.x * speedTurn);
             moveDirection = transform.TransformDirection(moveDirection);
             moveDirection *= speed;
-            giroEnY = Input.GetAxis("Horizontal") * anguloDeGiro;
+            giroEnY = Input.acceleration.x * anguloDeGiro;
 
             if(cocheGO.name=="taxi" )
                 cocheGO.transform.rotation = Quaternion.Euler(-90, giroEnY -90  ,0 );
