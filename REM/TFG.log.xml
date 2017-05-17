@@ -83,6 +83,7 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
+<<<<<<< HEAD
 <rem:owner>DRS-0002</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
@@ -93,6 +94,9 @@
 <rem:change>
 <rem:type>S</rem:type>
 <rem:owner>CHS-0004</rem:owner><rem:date>
+=======
+<rem:owner>DFS-0003</rem:owner><rem:date>
+>>>>>>> 071ee5fa62b360e625220ea944c0b7fbc42aa817
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -100,6 +104,7 @@
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
+<<<<<<< HEAD
 <rem:type>D</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
@@ -111,6 +116,10 @@
 <rem:change>
 <rem:type>S</rem:type>
 <rem:owner>DFS-0003</rem:owner><rem:date>
+=======
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+>>>>>>> 071ee5fa62b360e625220ea944c0b7fbc42aa817
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -119,7 +128,11 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
+<<<<<<< HEAD
 <rem:owner>DFS-0003</rem:owner><rem:date>
+=======
+<rem:owner>CHS-0004</rem:owner><rem:date>
+>>>>>>> 071ee5fa62b360e625220ea944c0b7fbc42aa817
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -146,6 +159,7 @@
 </rem:change>
 <rem:change>
 <rem:type>D</rem:type>
+<<<<<<< HEAD
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
@@ -155,12 +169,14 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
+=======
+>>>>>>> 071ee5fa62b360e625220ea944c0b7fbc42aa817
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
 </rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0003]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
@@ -173,7 +189,11 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
+<<<<<<< HEAD
 <rem:owner>CRS-0001</rem:owner><rem:date>
+=======
+<rem:owner>DRS-0002</rem:owner><rem:date>
+>>>>>>> 071ee5fa62b360e625220ea944c0b7fbc42aa817
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -188,6 +208,24 @@
 <rem:day>17</rem:day>
 </rem:date>
 <rem:description><![CDATA[Eliminado el objeto [STK-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
@@ -208,8 +246,31 @@
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
+<<<<<<< HEAD
 <rem:type>D</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
+=======
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [STK-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>ORG-0001</rem:owner><rem:date>
+>>>>>>> 071ee5fa62b360e625220ea944c0b7fbc42aa817
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
