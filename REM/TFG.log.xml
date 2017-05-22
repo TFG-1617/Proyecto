@@ -46,8 +46,44 @@
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
 <rem:type>D</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -56,16 +92,7 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:owner>DFS-0003</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -83,7 +110,16 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -93,6 +129,33 @@
 <rem:change>
 <rem:type>S</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -115,56 +178,20 @@
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [STK-0002]  con 0 hijos y 1 cambios]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0006] Desarrollo del proyecto con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
+<rem:type>D</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
 </rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0008] Abreviaturas y acrónimos con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -187,55 +214,10 @@
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [STK-0001]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [SEC-0008] Abreviaturas y acrónimos con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
 <rem:description><![CDATA[Eliminado el objeto [SEC-0005] Objetivos del proyecto con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
 <rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
@@ -245,34 +227,7 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
@@ -286,7 +241,34 @@
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
 </rem:date>
-<rem:description><![CDATA[Eliminado el objeto [SEC-0006] Desarrollo del proyecto con 0 hijos y 1 cambios]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [STK-0002]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>D</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [STK-0001]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
@@ -308,10 +290,73 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
-<rem:day>17</rem:day>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
@@ -320,7 +365,7 @@
 <rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
-<rem:day>17</rem:day>
+<rem:day>22</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
@@ -329,7 +374,16 @@
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
-<rem:day>17</rem:day>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
@@ -338,16 +392,7 @@
 <rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
-<rem:day>21</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>17</rem:day>
+<rem:day>22</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
@@ -361,20 +406,29 @@
 <rem:description><![CDATA[Eliminado el objeto [GRF-0001]  con 0 hijos y 1 cambios]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
-<rem:day>22</rem:day>
+<rem:day>21</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Precondition] actualizada [PD] -> [Abrir app]]]></rem:description>
+<rem:description><![CDATA[Eliminado el objeto [SEC-0004] Personas participantes con 0 hijos y 0 cambios]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>S</rem:type>
+<rem:type>D</rem:type>
 <rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [OBJ-0006]  con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>21</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
@@ -388,29 +442,11 @@
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Importance] actualizada [PD] -> [importante]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [PRG-0002] Descripción con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>21</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
@@ -424,13 +460,31 @@
 <rem:description><![CDATA[Eliminado el objeto [SEC-0003] Organizaciones participantes con 0 hijos y 0 cambios]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
-<rem:day>22</rem:day>
+<rem:day>17</rem:day>
 </rem:date>
-<rem:description><![CDATA[Propiedad [Status] actualizada [PD] -> [en construcción]]]></rem:description>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>21</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>D</rem:type>
@@ -442,17 +496,26 @@
 <rem:description><![CDATA[Eliminado el objeto [SEC-0004] Motivación con 1 hijos y 2 cambios]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Eliminado el objeto [PRG-0002] Descripción con 0 hijos y 1 cambios]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:owner>DFS-0003</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>21</rem:day>
@@ -460,35 +523,17 @@
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [OBJ-0006]  con 0 hijos y 1 cambios]]></rem:description>
-</rem:change>
-<rem:change>
 <rem:type>S</rem:type>
 <rem:owner>DFS-0003</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
-<rem:day>17</rem:day>
+<rem:day>22</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
 <rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>22</rem:day>
@@ -503,132 +548,6 @@
 <rem:day>22</rem:day>
 </rem:date>
 <rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Urgency] actualizada [PD] -> [puede esperar]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>D</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>21</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado el objeto [SEC-0004] Personas participantes con 0 hijos y 0 cambios]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [TriggeringEvent] actualizada [el usuario pulse el icono de la aplicación] -> [el usuario abre la app]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Postcondition] actualizada [La aplicación será iniciada] -> []]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Precondition] actualizada [Dispositivo móvil con Android 5.1 o superior] -> []]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 (El sistema muestra el menú ini...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 (Actor Usuario PD)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 (El sistema muestra el menú de ...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Inicio aplicación] -> [Acceder menu inicio]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] del hijo nº1 actualizada: [PD] -> [abre la app]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Postcondition] actualizada [PD] -> [Modificar los ajustes de sonido]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Postcondition] actualizada [] -> [El menú inicio se ha mostrado correctamente]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [TriggeringEvent] actualizada [PD] -> [el usuario pulsa en el botón "Settings"]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Creación]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
@@ -640,17 +559,251 @@
 <rem:description><![CDATA[Añadida organización desarrolladora [ORG-0001] TFG]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>17</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>22</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 (Actor Usuario pulsa el botón "...)]]></rem:description>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Documento guardado]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Condition] del hijo nº4 actualizada: [aparece un obstáculo] -> [aparece un objeto]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] del hijo nº5 actualizada: [detendrá el juego, mostrando la puntuación obtenida en la partida] -> [detendrá el juego, y mostrará un menu de puntos, donde pondrá la puntuación obtenida en la partida]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº2 (El sistema muestra la pantalla...)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] del hijo nº4 actualizada: [girará el dispositivo movil a izquierda o derecha para esquivar el obstáculo] -> [girará el dispositivo movil a izquierda o derecha para coger o esquivar el objeto]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº5 (Si aparece un obstáculo, actor...)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [IsSystemAction] del hijo nº5 actualizada: [false] -> [true]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Propiedad [Description] del hijo nº5 actualizada: [girará el dispositivo movil a izquierda o derecha para esquivar el obstáculo] -> [detendrá el juego, mostrando la puntuación obtenida en la partida]]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Intercambiados hijos nº4 (Si aparece un objeto, actor Us...) y nº3 (Si aparece un obstáculo, actor...)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº1 (Actor Usuario presiona el botó...)]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>U</rem:type>
+<rem:owner>UC-0004</rem:owner><rem:date>
+<rem:year>2017</rem:year>
+<rem:month>5</rem:month>
+<rem:day>22</rem:day>
+</rem:date>
+<rem:description><![CDATA[Añadido hijo nº3 (Si aparece un obstáculo, actor...)]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>C</rem:type>
-<rem:owner>UC-0003</rem:owner><rem:date>
+<rem:owner>UC-0004</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>22</rem:day>
@@ -659,254 +812,20 @@
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>UC-0003</rem:owner><rem:date>
+<rem:owner>UC-0004</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>22</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 (El sistema vuelve al menú inic...)]]></rem:description>
+<rem:description><![CDATA[Propiedad [Condition] del hijo nº5 actualizada: [aparece un obstáculo] -> [choca con un obstáculo]]]></rem:description>
 </rem:change>
 <rem:change>
 <rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
+<rem:owner>UC-0004</rem:owner><rem:date>
 <rem:year>2017</rem:year>
 <rem:month>5</rem:month>
 <rem:day>22</rem:day>
 </rem:date>
-<rem:description><![CDATA[Añadido hijo nº3 (Si PD, actor Usuario mueve la ...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [IsConditional] del hijo nº3 actualizada: [true] -> [false]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº7 (El sistema vuelve al menú inic...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº1 (El sistema muestra el menú "He...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº6 (El sistema vuelve al menú inic...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Postcondition] actualizada [Modificar los ajustes de sonido] -> [Modifica los ajustes de sonido]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Precondition] actualizada [Abrir app, estar en menú inicio] -> [[UC-0001] Acceder menu inicio]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº4 (El sistema sube o baja el volu...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Name] actualizada [Modificar ajustes] -> [Modificar ajustes de sonido]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Documento guardado]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº5 (Actor Usuario presiona el botó...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] del hijo nº4 actualizada: [sube o baja el volumen de la música o sonido de la app] -> [sube o baja el sonido de la app]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] del hijo nº3 actualizada: [mueve la barra de sonido y música para bajar o subir el sonido y la música de la app] -> [mueve las barras de sonido para bajar o subir el sonido de la app]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº7 (Actor Usuario presiona el botó...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº7 (Actor Usuario presiona el botó...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Propiedad [Description] del hijo nº3 actualizada: [mueve la barra de sonido para bajar o subir el sonido de la app] -> [mueve la barra de sonido y música para bajar o subir el sonido y la música de la app]]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Añadido hijo nº2 (Actor Usuario presiona el botó...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0002</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº7 (El sistema vuelve al menú inic...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº2 (El sistema vuelve al menú inic...)]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>U</rem:type>
-<rem:owner>UC-0003</rem:owner><rem:date>
-<rem:year>2017</rem:year>
-<rem:month>5</rem:month>
-<rem:day>22</rem:day>
-</rem:date>
-<rem:description><![CDATA[Eliminado hijo nº2 (Actor Usuario presiona el botó...)]]></rem:description>
+<rem:description><![CDATA[Añadido hijo nº4 (Si aparece un obstáculo, actor...)]]></rem:description>
 </rem:change>
 </rem:log>
