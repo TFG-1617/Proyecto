@@ -10,6 +10,7 @@ public class ControladorCoche : MonoBehaviour
     public float speedTurn = 10.0F;
     private Vector3 moveDirection = Vector3.zero;
     public GameObject cocheGO;
+    public GameObject pause;
  
     public GameObject listaVehiculos;
     public SeleccionVehiculo seleccionVehiculosScript;
@@ -18,6 +19,7 @@ public class ControladorCoche : MonoBehaviour
     void Start()
     {
         cocheGO = GameObject.FindGameObjectWithTag("Coche");
+        pause.SetActive(false);
     }
 
 
@@ -42,11 +44,33 @@ public class ControladorCoche : MonoBehaviour
             if (cocheGO.name == "Coche")
                 cocheGO.transform.rotation = Quaternion.Euler(-90, giroEnY +90, 0);
 
-
-
-
-
             controller.Move(moveDirection * Time.deltaTime);
+
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                Change();
+            }
+        }
     }
+
+    void Change()
+    {
+        if (Time.timeScale == 1)
+            Pause();
+
+        else if (Time.timeScale == 0)
+            Continue();
+    }
+
+    void Pause()
+    {
+        pause.SetActive(true);
+        Time.timeScale = 0;
+    }
+
+    void Continue()
+    {
+        pause.SetActive(false);
+        Time.timeScale = 1;
     }
 }
