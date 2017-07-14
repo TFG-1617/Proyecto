@@ -107,6 +107,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tramosInfinitos: {fileID: 0}
   movimientoTramosScript: {fileID: 0}
+  sound: {fileID: 8300000, guid: b97daa38233751c4ba636dbcf0bbbc77, type: 3}
+  position: {fileID: 0}
 --- !u!114 &114855421586076782
 MonoBehaviour:
   m_ObjectHideFlags: 1
