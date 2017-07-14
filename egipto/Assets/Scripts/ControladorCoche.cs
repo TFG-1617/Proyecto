@@ -19,6 +19,7 @@ public class ControladorCoche : MonoBehaviour
     void Start()
     {
         cocheGO = GameObject.FindGameObjectWithTag("Coche");
+        pause = GameObject.Find("Pause");
         pause.SetActive(false);
     }
 
