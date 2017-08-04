@@ -137,9 +137,9 @@ public class MovimientoTramos : MonoBehaviour {
         score = (int)realScore;
         UpdateScore();
         saveLastScore();
-        if (score != 0 && score % 500 == 0)
+        if (score != 0 && score % 100 == 0)
         {
-            velocidad += 0.5f;
+            velocidad += 0.2f;
         }
        
     }
